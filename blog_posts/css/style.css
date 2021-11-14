@@ -5,7 +5,7 @@
 }
 
 body{
-  background-color: #bcccca;
+  background-color: #f7f8fc;
   font-family: "Open Sans",sans-serif ;
   display: flex;
   align-items: center;
@@ -76,7 +76,7 @@ body{
   margin: 0 0 40px;
 }
 
-.user {
+.user{
   display: flex;
   margin-top: auto;
 }
@@ -90,6 +90,10 @@ body{
 
 .user-info small{
   color: #888785;
+}
+
+.user-info h5{
+  margin: 0;
 }
 
 @media(max-width:950px){
